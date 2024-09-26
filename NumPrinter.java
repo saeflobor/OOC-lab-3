@@ -1,7 +1,7 @@
- public class NumWordPrinter {
+ public class NumPrinter {
         int num;
         boolean string;
-        public NumWordPrinter() {
+        public NumPrinter() {
             this.num = num;
             this.string = string;
         }
